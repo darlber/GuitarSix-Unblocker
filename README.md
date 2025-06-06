@@ -38,7 +38,3 @@ This browser extension unlocks download and preview restrictions on PDF.js viewe
 ## Disclaimer
 
 This extension is provided for educational purposes only. The author does not condone or encourage any misuse. Use at your own risk. The author is not responsible for any consequences arising from the use of this extension.
-
-## License
-
-MIT
