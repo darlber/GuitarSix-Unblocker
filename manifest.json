@@ -1,12 +1,13 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "PDF.js Unblocker",
   "version": "1.0",
   "description": "Unblocks PDF.js download and preview restrictions.",
   "background": {
-    "service_worker": "background.js"
+    "scripts": ["background.js"],
+    "persistent": false
   },
-  "action": {
+  "browser_action": {
     "default_icon": "icons/icon.png",
     "default_title": "Unblock PDF.js"
   },
