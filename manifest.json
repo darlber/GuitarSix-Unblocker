@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "PDF.js Unblocker",
+  "name": "GuitarSix-Unblocker",
   "version": "1.0",
   "description": "Unblocks PDF.js download and preview restrictions.",
   "background": {
